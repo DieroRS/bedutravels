@@ -1,0 +1,30 @@
+body{
+margin: 0;
+font-family:'Permanent Marker';
+}
+
+nav{
+background-color: #7ECCED;
+height: 50px;
+width: 100%;
+display: flex;
+justify-content: space-between;
+align-items:center;
+
+}
+a
+{
+color: #ffffff;
+
+}
+#bedu{
+font-family: 'Courier New', Courier, monospace;
+}
+
+.negro{
+    color: black;
+}
+
+a.rojo{
+    color: red;
+}
